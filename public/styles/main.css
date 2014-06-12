@@ -82,13 +82,13 @@ article.bespoke-parent {
   -webkit-align-items: center;
   align-items: center;
   text-align: center;
-  width: 940px;
+  width: 1020px;
   height: 580px;
   position: absolute;
   top: 50%;
   margin-top: -290px;
   left: 50%;
-  margin-left: -470px;
+  margin-left: -510px;
   background: #eaeaea;
   padding: 40px;
   -webkit-border-radius: 0;
@@ -105,18 +105,18 @@ article.bespoke-parent {
   }
 }
 .bespoke-before {
-  -webkit-transform: translateX(100px) translateX(-470px) rotateY(-90deg) translateX(-470px);
-  -moz-transform: translateX(100px) translateX(-470px) rotateY(-90deg) translateX(-470px);
-  -o-transform: translateX(100px) translateX(-470px) rotateY(-90deg) translateX(-470px);
-  -ms-transform: translateX(100px) translateX(-470px) rotateY(-90deg) translateX(-470px);
-  transform: translateX(100px) translateX(-470px) rotateY(-90deg) translateX(-470px);
+  -webkit-transform: translateX(100px) translateX(-510px) rotateY(-90deg) translateX(-510px);
+  -moz-transform: translateX(100px) translateX(-510px) rotateY(-90deg) translateX(-510px);
+  -o-transform: translateX(100px) translateX(-510px) rotateY(-90deg) translateX(-510px);
+  -ms-transform: translateX(100px) translateX(-510px) rotateY(-90deg) translateX(-510px);
+  transform: translateX(100px) translateX(-510px) rotateY(-90deg) translateX(-510px);
 }
 .bespoke-after {
-  -webkit-transform: translateX(-100px) translateX(470px) rotateY(90deg) translateX(470px);
-  -moz-transform: translateX(-100px) translateX(470px) rotateY(90deg) translateX(470px);
-  -o-transform: translateX(-100px) translateX(470px) rotateY(90deg) translateX(470px);
-  -ms-transform: translateX(-100px) translateX(470px) rotateY(90deg) translateX(470px);
-  transform: translateX(-100px) translateX(470px) rotateY(90deg) translateX(470px);
+  -webkit-transform: translateX(-100px) translateX(510px) rotateY(90deg) translateX(510px);
+  -moz-transform: translateX(-100px) translateX(510px) rotateY(90deg) translateX(510px);
+  -o-transform: translateX(-100px) translateX(510px) rotateY(90deg) translateX(510px);
+  -ms-transform: translateX(-100px) translateX(510px) rotateY(90deg) translateX(510px);
+  transform: translateX(-100px) translateX(510px) rotateY(90deg) translateX(510px);
 }
 @media print {
   .bespoke-after {
